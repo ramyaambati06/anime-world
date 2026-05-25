@@ -15,4 +15,4 @@ A responsive anime browsing web application built using HTML, CSS, and JavaScrip
 * CSS3
 * JavaScript
 
-
+![image alt](https://github.com/ramyaambati06/anime-world/blob/e06a3899df5b5b080c4372cfd8f2466ab597c5e4/home.jpg.jpeg)
